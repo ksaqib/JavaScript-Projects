@@ -1,0 +1,7 @@
+.container{
+    border: solid red 7.5px;
+    padding: 10px;
+    margin: 12.5px;
+    background-color: bisque;
+    color: blue;
+}
