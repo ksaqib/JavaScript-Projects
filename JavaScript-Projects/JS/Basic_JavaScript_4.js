@@ -8,5 +8,9 @@ function myFunc(){
     };
     delete car.mpg;
     document.getElementById("Dictionary").innerHTML = car.mpg;
-    
 }
+let x =  3E310;
+let y = -3E310;
+document.write("</br>", `The positive inifinty is displayed as ${x}.`);
+document.write("</br>", `The negative inifinty is displayed as ${y}.`);
+
